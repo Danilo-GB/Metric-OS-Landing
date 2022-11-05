@@ -27,7 +27,7 @@
             <b-nav-item href="#" v-scroll-to="'#elemProduct'"
               >Project</b-nav-item
             >
-            <b-nav-item href="https://metric-os-docs.netlify.app/" targer="_blank" rel="noopener noreferrer">Docs</b-nav-item>
+            <b-nav-item href="https://metric-os-docs.netlify.app/" target="_blank" rel="noopener noreferrer">Docs</b-nav-item>
           </b-navbar-nav>
         </b-collapse>
       </b-container>
