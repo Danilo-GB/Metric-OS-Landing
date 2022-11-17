@@ -59,7 +59,7 @@ export default {
         {
           title: "Desktop Aplication",
           img: require("../assets/img/product_3.png"),
-          link: "https://github.com/Danilo-GB/Metric-OS-Desktop-App",
+          link: "https://bit.ly/metric-os-app",
         },
       ],
     };
